@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=armagankaymaz&show_icons=true)
 -->
 
 # Hi, I'm Armağan Kaymaz 👋
@@ -21,8 +23,10 @@ I'm a Master's student in **Management and Data Science** with a strong passion 
 I have hands-on experience in data analysis, KPI reporting, and optimization problems.
 
 ## 🌱 What I'm currently working on:
-- Optimizing school bus routes using machine learning: [Project Repo](https://github.com/stepkurniawan/schoolbus-timetable-optimization)
 - Exploring recommender systems to improve user experiences
+- Various deep learning exercises
+- Optimizing school bus routes using machine learning: [Project Repo](https://github.com/stepkurniawan/schoolbus-timetable-optimization)
+
 
 ## ⚡ Skills:
 - **Languages**: Python (scikit-learn, PyTorch), SQL, R
@@ -33,5 +37,4 @@ I have hands-on experience in data analysis, KPI reporting, and optimization pro
 - Email: [armagan.kaymaz@gmail.com](mailto:armagan.kaymaz@gmail.com)
 - LinkedIn: [Armağan Kaymaz](https://linkedin.com/in/armagankaymaz)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=armagankaymaz&show_icons=true)
 
