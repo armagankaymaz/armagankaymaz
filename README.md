@@ -61,7 +61,7 @@ Currently, I am focused on **MLOps**, **Agentic AI**, and **scalable data infras
 ## 📫 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/armagan-kaymaz">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:armagan.kaymaz@gmail.com">
     <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
