@@ -60,8 +60,12 @@ Currently, I am focused on **MLOps**, **Agentic AI**, and **scalable data infras
 
 ## 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/armagankaymaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armagankaymaz" height="30" width="40" /></a>
-<a href="mailto:armagan.kaymaz@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="armagan.kaymaz@gmail.com" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/armagan-kaymaz">
+    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:armagan.kaymaz@gmail.com">
+    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=armagankaymaz&show_icons=true&theme=radical)
